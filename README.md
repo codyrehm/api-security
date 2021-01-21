@@ -1,0 +1,1 @@
+A simple practice application to learn Go and practice API security.
